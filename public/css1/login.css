@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  width: 800px;
+  position: relative;
+ 
+ 
+}
+.btn1 {
+  height: 50px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.d {
+  height: 80px;
+  width: 100%;
+  color: orange;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+ 
+}
+.c {
+  height: 50px;
+  width: 320px;
+  color: black;
+  margin-left: 8px;
+
+}
+
+.body{
+  background-color: red;
+}

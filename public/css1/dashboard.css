@@ -1,0 +1,24 @@
+.p{
+    margin-top: 100px;
+ }
+ .ryt{
+    text-align: center;
+    font-size: 50px;
+ }
+ .mu{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+ }
+ .btn2{
+    height: 40px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 25px;
+  text-decoration: none;
+  padding: auto;
+  margin-bottom: 7px;
+ }
